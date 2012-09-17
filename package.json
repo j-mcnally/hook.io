@@ -40,6 +40,7 @@
     "semver": "1.0.x",
     "prompt": "0.1.x",
     "portfinder": "0.2.x",
+    "node-gyp": ">= 0.6.10",
     "weak": "git://github.com:j-mcnally/node-weak.git",
     "socket.io": "0.9.6",
     "socket.io-client": "0.9.6",
