@@ -41,7 +41,7 @@
     "prompt": "0.1.x",
     "portfinder": "0.2.x",
     "node-gyp": ">= 0.6.10",
-    "weak": "git://github.com:j-mcnally/node-weak.git",
+    "weak": "git://github.com/j-mcnally/node-weak",
     "socket.io": "0.9.6",
     "socket.io-client": "0.9.6",
     "lazy": ">=1.0.5 <1.1",
